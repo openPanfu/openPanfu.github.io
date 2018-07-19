@@ -1,0 +1,31 @@
+body {
+	background: url('/background.png') no-repeat center center fixed; 
+	background-size: cover;
+	height: 100%;
+	overflow: hidden;
+}
+
+img {
+	margin-bottom: 18px;
+	border-top:5px ridge #fff400;
+	border-right:5px ridge #fff400;
+	border-bottom:5px ridge #fff400;
+	border-left:5px ridge #fff400;
+	image-rendering: -moz-crisp-edges;
+	image-rendering: -moz-crisp-edges;
+	image-rendering: -o-crisp-edges;
+	image-rendering: -webkit-optimize-contrast;
+	-ms-interpolation-mode: nearest-neighbor;
+}
+
+h1 {
+	margin: 32px;
+}
+
+h2 {
+	margin: 32px;
+}
+
+p {
+	margin-bottom: 18px;
+}
