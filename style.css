@@ -2,10 +2,10 @@ body {
 	background: url('/background.png') no-repeat center center fixed; 
 	background-size: cover;
 	height: 100%;
-	overflow: hidden;
+	padding-bottom: 32px;
 }
 
-img {
+a img {
 	margin-bottom: 18px;
 	border-top:5px ridge #fff400;
 	border-right:5px ridge #fff400;
